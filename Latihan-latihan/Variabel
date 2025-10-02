@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<HTML>
+    <HEAD>
+        <TITTEL>P1</TITTEL>
+    </HEAD>
+        <BODY>
+            <?php
+            $nama ="Bunga ochi anggeita";
+            echo "$nama berkata \"katakan namamu!\"";
+            ?>
+        </BODY>
+</HTML>
